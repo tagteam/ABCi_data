@@ -1,0 +1,11 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+plot_estimated_vs_counterfactual|function|6f901a24d503ccb7
+analyse_Q1_lmtp|function|f86641f69cd857ed
+analyse_Q1_unadjusted|function|c7f34ba8f3273786
+analyse_Q1_riskRegression|function|dc4f75925ba29811
+analyse_Q1_rtmle|function|e60e75065c779de2
+expit|function|e736837c603a18ff
+tar_performance|function|ff89a12040443dcc
+generate_ABCi_counterfactual_data|function|abae161fa6c6a197
+generate_ABCi_data|function|aa82dc8acb45e097
+get_counterfactual_risks|function|ca12ce475453d94a
